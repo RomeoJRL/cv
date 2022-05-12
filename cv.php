@@ -155,7 +155,7 @@
                         <p>
                           
 
-                    Implementation d'un Processeur sur FPGA altera(cyclone 3) pour test de traitement d'image  
+                    Implementation d'un Processeur sur FPGA altera(cyclone 3) pour la reconnaissance vocale   
                         </p>
                     </div>
                 </div>
